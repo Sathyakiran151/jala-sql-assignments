@@ -3,7 +3,6 @@
 Files:
 1. `01_database_setup.sql` - creates database, tables, and inserts sample data.
 2. `02_all_89_query_answers.sql` - contains all 89 MySQL query answers.
-3. `03_interview_explanation_notes.md` - interview explanation format.
 
 How to run:
 1. Open MySQL Workbench.
